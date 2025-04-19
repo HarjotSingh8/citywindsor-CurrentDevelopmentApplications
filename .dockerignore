@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore Docker-related files
+docker-compose.override.yml
+
+# Ignore application logs
+*.log
+
+# Ignore PDFs
+pdfs/
+
+# Ignore other temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
