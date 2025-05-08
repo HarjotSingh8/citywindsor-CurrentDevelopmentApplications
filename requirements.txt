@@ -1,2 +1,5 @@
 requests
 beautifulsoup4
+cohere
+numpy
+annoy
