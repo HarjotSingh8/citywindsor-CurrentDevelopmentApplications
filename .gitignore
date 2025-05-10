@@ -4,5 +4,8 @@ embeddings/
 jsons/
 chunks/
 texts/
+fast_embeddings/
 .DS_Store
 *.env
+*.pyc
+*__pycache__/
